@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# SSH key
+amir-agent-ec2.pem
+
+# NANDA Adapter code
+adapter/*
