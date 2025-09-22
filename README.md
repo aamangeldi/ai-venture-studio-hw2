@@ -6,7 +6,14 @@ This NANDA-wrapped agent represents Amir Amangeldi. It knows Amir's background a
 - The adapter codebase is poorly documented.
 
 ## Evidence
-![alt text](./screenshot.png)
+Chat in NANDA UI:
+![alt text](./screenshot-0.png)
+
+Corresponding logs:
+![alt text](./screenshot-1.png)
+
+Registration link in logs:
+![alt text](./screenshot-2.png)
 
 ## Setting up
 
